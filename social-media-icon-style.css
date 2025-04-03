@@ -1,0 +1,42 @@
+.social-media-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .social-media-buttons .sm-icon {
+    padding: 1rem;
+    font-size: 2rem;
+    width: 2rem;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  @media (min-width: 1050px) {
+    .social-media-buttons {
+      flex-direction: column;
+      position: fixed;
+      bottom: 3rem;
+      right: 0;
+    }
+  
+    .social-media-buttons .sm-icon {
+      background-color: var(--color-content-bg);
+      border-radius: 50%;
+      margin: 0.3rem 0.6rem;
+      transition: all 0.1s ease-in-out;
+    }
+  
+    .social-media-buttons .sm-icon:last-of-type {
+      margin-bottom: 0.6rem;
+    }
+  
+    .social-media-buttons .sm-icon:hover {
+      padding: 1.3rem;
+      margin: 0rem 0.3rem;
+    }
+  
+    .social-media-buttons .sm-icon:hover:last-of-type {
+      margin-bottom: 0.3rem;
+    }
+  }
