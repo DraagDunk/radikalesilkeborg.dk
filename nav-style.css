@@ -1,3 +1,8 @@
+:root {
+    --logo-size: 4rem;
+}
+
+
 .topnav {
     position: fixed;
     width: 100%;
@@ -9,21 +14,39 @@
 }
 
 .topnav a {
-    padding: 14px 16px;
     font-size: 17px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    line-height: 3rem;
     display: block;
     color: var(--color-header-text);
 }
 
-.topnav #home-link.narrow {
-    width: fit-content;
+.topnav #home-link{
+    font-family: Neue Hass Grotesk Display, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    line-height: var(--logo-size);
+    font-size: x-large;
+
+    &.narrow {
+        width: fit-content;
+    }
+}
+
+.B-logo {
+    color: var(--color-logo);
+    font-weight: bold;
 }
 
 .topnav a.icon {
+    padding: 0;
     display: block;
     position: absolute;
     right: 0;
     top: 0;
+    width: var(--logo-size);
+    text-align: center;
+    line-height: var(--logo-size);
 }
 
 .topnav a:hover {

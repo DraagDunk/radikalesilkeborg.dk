@@ -9,5 +9,5 @@
     <link rel="stylesheet" href="nav-style.css">
     <link rel="stylesheet" href="social-media-icon-style.css">
     <script src="navbar.js"></script>
-    <title><?php echo $title ?> | Profile Template</title>
+    <title><?php echo $title ?> | Radikale Silkeborg</title>
 </head>

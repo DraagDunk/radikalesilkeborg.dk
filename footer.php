@@ -1,5 +1,5 @@
 <?php
-    $email = "jesper@candscient.dk";
+    $email = "jesper@radikalesilkeborg.dk";
     $name = "Jesper";
 ?>
 

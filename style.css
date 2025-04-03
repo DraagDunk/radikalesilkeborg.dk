@@ -1,18 +1,21 @@
 :root {
     --color-header-bg: black;
     --color-header-text: white;
-    --color-footer-bg: grey;
+    --color-footer-bg: #009540;
     --color-footer-text: #020202;
-    --color-bg: white;
+    --color-bg: #F0F0F0;
     --color-content-bg: rgba(2, 2, 2, 0.1);
     --color-text: black;
-    --color-light-text: blue;
+    --color-light-text: #009540;
+    --color-logo: #E5007E;
+
+    --font-size-logo: larger;
 }
 
 header {
     margin: 0;
     color: var(--color-header-text);
-    min-height: 3rem;
+    height: 0;
 }
 
 html {
@@ -39,11 +42,12 @@ div.page {
     display: flex;
     justify-content: center;
     background: var(--color-bg);
-    min-height: calc(100vh - 6rem);
+    min-height: calc(100vh - 3rem);
 }
 
 div.content {
     margin: 0.5rem;
+    margin-top: calc(var(--logo-size) + 1rem);
     padding: 1rem;
     max-width: 800px;
     width: 100%;
@@ -72,6 +76,10 @@ footer {
 
 footer a {
     color: var(--color-footer-text);
+
+    &:hover {
+        color: var(--color-logo);
+    }
 }
 
 .about-section {

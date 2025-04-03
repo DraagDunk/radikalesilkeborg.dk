@@ -1,6 +1,6 @@
 <header>
     <div class="topnav" id="topnav">
-        <a id="home-link" class="narrow" href="#home" onclick="closeMenu()">Logo</a>
+        <a id="home-link" class="narrow" href="#home" onclick="closeMenu()">Silke<span class="B-logo">B</span>org</a>
         <nav id="navigation">
             <a href="#news" onclick="closeMenu()">Nyheder</a>
             <a href="#about" onclick="closeMenu()">Om os</a>
