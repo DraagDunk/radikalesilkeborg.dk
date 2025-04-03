@@ -31,4 +31,10 @@ function topnavCloseEvent() {
 
 document.addEventListener("DOMContentLoaded", () => {
     topnavCloseEvent();
+    let topnavButtons = document.querySelectorAll(".topnav a");
+    topnavButtons.forEach((e) => {
+        if (e.id !== "burger") {
+            e.addEventListener("click", closeMenu);
+        }
+    })
 })
