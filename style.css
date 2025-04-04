@@ -7,7 +7,8 @@
     --color-content-bg: rgba(2, 2, 2, 0.1);
     --color-text: black;
     --color-light-text: #009540;
-    --color-logo: #E5007E;
+    --color-logo-magenta: #E5007E;
+    --color-logo-green: #009540;
 
     --font-size-logo: larger;
 }
@@ -26,7 +27,17 @@ html {
 body {
     margin: 0;
     color: var(--color-text);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
+}
+
+.B-logo {
+    color: var(--color-logo-magenta);
+    font-weight: bold;
+}
+
+.R-logo {
+    color: var(--color-logo-green);
+    font-weight: bold;
 }
 
 a {
@@ -59,7 +70,6 @@ h1,
 h2,
 h3 {
     text-align: center;
-    text-transform: uppercase;
     scroll-margin-top: 4rem;
 }
 
@@ -78,7 +88,7 @@ footer a {
     color: var(--color-footer-text);
 
     &:hover {
-        color: var(--color-logo);
+        color: var(--color-logo-magenta);
     }
 }
 

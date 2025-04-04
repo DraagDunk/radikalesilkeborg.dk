@@ -1,0 +1,29 @@
+div.card-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    .card {
+        padding: 0.5rem;
+        margin: 0.5rem;
+
+        transition: transform 0.2s ease-in-out;
+
+        h4 {
+            text-align: center;
+            margin: 0;
+        }
+
+        &:hover {
+            transform: scale(1.1);
+            cursor: pointer;
+        }
+
+        img {
+            max-width: 100%;
+        }
+    }
+
+    @media (min-width: 800px) {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

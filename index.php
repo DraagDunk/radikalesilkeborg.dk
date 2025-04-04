@@ -11,42 +11,69 @@
 <div class="page">
     <div class="content">
 
-        <h1 id="home">Person Personsen</h1>
+        <h1 id="home"><span class="R-logo">Radikale</span> Silke<span class="B-logo">B</span>org</h1>
 
-        <p>Personsen er en person, som laver ting som en person laver. Person har relationer til andre personer, som nyder Persons person.</p>
 
-        <h2 id="news">Nyheder</h2>
+        <h2 id="kv25">Kandidater til kommunalvalg 2025</h2>
 
-        <p>Der er sket noget nyt, og det kan du læse om her.</p>
+        <div class="card-grid">
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Johan Brødsgaard</h4>
+            </a>
 
-        <h2 id="about">Om Personsen</h2>
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Carsten Bjerre</h4>
+            </a>
 
-        <p>Der er allerede skrevet lidt om Person, men udover hvad der allerede er sagt, kan jeg vel sige, at Person er</p>
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Morten Junget</h4>
+            </a>
 
-        <div class="about-section">
-            <div class="image-container">
-                <img src="image.jpeg" alt="Billede af person">
-            </div>
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Kim Egeskov</h4>
+            </a>
 
-            <div class="info-box">
-                <p>Nu tænker du nok: Er det ikke meget generisk? Jo, det er det. Men det er sikkert meget godt.</p>
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Søren Kristian Wenzel Nielsen</h4>
+            </a>
 
-                <p>Billedet her på siden er computergeneret, og forestiller ikke nogen.</p>
-            </div>
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Sophie Mørkholt Rasmussen</h4>
+            </a>
+
+            <a class="card" href="https://cskytt.dk/">
+                <img src="noone.png" alt="">
+                <h4>Carsten Ørum Skytt</h4>
+            </a>
+
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Jesper Dam Gynther Knudgaard</h4>
+            </a>
+
+            <a class="card">
+                <img src="noone.png" alt="">
+                <h4>Henrik Steffens</h4>
+            </a>
         </div>
 
-        <h2 id="contact">Kontakt</h2>
+        <h2 id="best">Bestyrelsen</h2>
 
-        <p>Vil du noget? Så kom bare an, du kan kontakte mig på en af de stygge sociale medier på knapperne.</p>
 
-        <div class="social-media-buttons">
+
+        <!-- <div class="social-media-buttons">
                     <a href="https://www.instagram.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-instagram"></a>
                     <a href="https://www.x.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-x-twitter"></a>
                     <a href="https://www.facebook.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-facebook"></a>
                     <a href="https://www.tiktok.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-tiktok"></a>
                     <a href="mailto:dennemailfindesheltsikkert@ikke.com" class="sm-icon fa fa-envelope"></a>
-                </div>
-
+                </div> -->
     </div>
 </div>
 

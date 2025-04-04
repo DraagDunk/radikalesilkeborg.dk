@@ -7,6 +7,7 @@
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="nav-style.css">
+    <link rel="stylesheet" href="card-style.css">
     <link rel="stylesheet" href="social-media-icon-style.css">
     <script src="navbar.js"></script>
     <title><?php echo $title ?> | Radikale Silkeborg</title>
