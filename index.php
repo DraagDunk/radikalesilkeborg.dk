@@ -1,5 +1,5 @@
 <?php
-    $title = "Home";
+    $title = "Forside";
     include("header.php");
 ?>
 <body>
