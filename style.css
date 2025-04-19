@@ -117,11 +117,13 @@ footer a {
 
 .person {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    margin-bottom: 2rem;
 
     .image {
-        width: 20%;
-        padding: 1rem;
+        width: 100%;
+        max-width: 400px;
+        margin: auto;
 
         img {
             width: 100%;
@@ -129,15 +131,33 @@ footer a {
     }
 
     .info {
-        width: 80%;
+        width: 100%;
 
-        h3 {
-            text-align: left;
-        }
+        text-align: center;
 
         .post {
             font-style: italic;
         }
+    }
+
+    @media (min-width: 800px) {
+        flex-direction: row;
+
+        .image {
+            width: 20%;
+            margin-right: 1rem;
+        }
+
+        .info {
+            width: 80%;
+    
+            text-align: left;
+
+            h3 {
+                text-align: left;
+            }
+        }
+        
     }
 
 }
