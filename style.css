@@ -9,6 +9,8 @@
     --color-light-text: #009540;
     --color-logo-magenta: #E5007E;
     --color-logo-green: #009540;
+    --color-magenta-transparent: rgba(229, 0, 126, 0.3);
+    --color-green-transparent: rgba(0, 149, 64, 0.3);
 
     --font-size-logo: larger;
 }
@@ -41,7 +43,7 @@ body {
 }
 
 a {
-    color: var(--color-text);
+    color: var(--color-logo-magenta);
     text-decoration: none;
 }
 
@@ -59,7 +61,7 @@ div.page {
 div.content {
     margin: 0.5rem;
     margin-top: calc(var(--logo-size) + 1rem);
-    padding: 1rem;
+    padding: 2rem;
     max-width: 800px;
     width: 100%;
     border-radius: 1rem;
@@ -104,6 +106,7 @@ footer a {
 
 .image-container img {
     width: 100%;
+    object-fit: cover;
 }
 
 @media (min-width: 800px) {
@@ -124,7 +127,7 @@ footer a {
         margin-inline-start: 2rem;
     }
 
-    .image-container img {
+    .image-container img{
         width: 350px;
     }
 

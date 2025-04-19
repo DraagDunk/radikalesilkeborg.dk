@@ -52,8 +52,8 @@
                 <h4>Carsten Ørum Skytt</h4>
             </a>
 
-            <a class="card">
-                <img src="noone.png" alt="">
+            <a class="card" href="/jesper-knudgaard">
+                <img src="jesper-knudgaard/Foto_JesperDamKnudgaard.jpg" alt="">
                 <h4>Jesper Dam Gynther Knudgaard</h4>
             </a>
 
