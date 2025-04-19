@@ -45,6 +45,12 @@ body {
 a {
     color: var(--color-logo-magenta);
     text-decoration: none;
+
+    .icon-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 100;
+        margin-left: 0.5rem;
+    }
 }
 
 a:hover {
@@ -107,6 +113,33 @@ footer a {
 .image-container img {
     width: 100%;
     object-fit: cover;
+}
+
+.person {
+    display: flex;
+    flex-direction: row;
+
+    .image {
+        width: 20%;
+        padding: 1rem;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .info {
+        width: 80%;
+
+        h3 {
+            text-align: left;
+        }
+
+        .post {
+            font-style: italic;
+        }
+    }
+
 }
 
 @media (min-width: 800px) {

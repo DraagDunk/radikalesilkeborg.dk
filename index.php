@@ -65,6 +65,119 @@
 
         <h2 id="best">Bestyrelsen</h2>
 
+        <div class="person">
+            <div class="image">
+                <img src="jesper-knudgaard/Foto_JesperDamKnudgaard.jpg" alt="">
+            </div>
+            <div class="info">
+                <h3>Jesper Dam Gynther Knudgaard</h3>
+                <div class="post">Formand</div>
+                <div class="contact-info">
+                <a href="mailto:jesper@radikalesilkeborg.dk" class="sm-icon fa fa-envelope"><span class="icon-text">jesper@radikalesilkeborg.dk</span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Per Simon Knudsen</h3>
+                <div class="post">Kasserer</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Carsten Bjerre</h3>
+                <div class="post">Bestyrelsesmedlem</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Henrik Steffens</h3>
+                <div class="post">Bestyrelsesmedlem</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Klara Gynther Knudgaard</h3>
+                <div class="post">Bestyrelsesmedlem</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Morten Junget</h3>
+                <div class="post">Bestyrelsesmedlem</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Poul Elmegaard</h3>
+                <div class="post">Bestyrelsesmedlem</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Kim Egeskov</h3>
+                <div class="post">Bestyrelsesmedlem</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Carsten Ørum Skytt</h3>
+                <div class="post">Suppleant</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Johan Brødsgaard</h3>
+                <div class="post">Suppleant</div>
+            </div>
+        </div>
+
+        <div class="person">
+            <div class="image">
+                <img src="noone.png" alt="">
+            </div>
+            <div class="info">
+                <h3>Søren Kristian Wenzel Nielsen</h3>
+                <div class="post">Suppleant</div>
+            </div>
+        </div>
+
 
 
         <!-- <div class="social-media-buttons">
