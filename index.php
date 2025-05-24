@@ -63,6 +63,34 @@
             </a>
         </div>
 
+        <h2 id="arrangementer">Arrangementer</h2>
+
+        <h3 id="grundlovsmoede">Grundlovsmøde på Gothenborg</h3>
+
+        <div class="about-section">
+            <div class="image-container">
+                <a href="arrangementer/2025_grundlovsmoede_program.pdf">
+                    <img src="arrangementer/grundlovsmøde_img.png" alt="Programmet til grundlovsmødet">
+                </a>
+            </div>
+            <div class="info-box">
+                <p>
+                    Den 5. juni fejrer Danmark sin grundlovsdag. Derfor inviterer Radikale Venstre i Silkeborg til grundlovsmøde på Gothenborg ved Them. Her vil være oplæg ved Christian Juhl fra FN-forbundet og Kurt Nielsen fra Europabevægelsen. <a href="arrangementer/2025_grundlovsmoede_program.pdf">Se hele programmet her.</a>
+                </p>
+                <p>
+                    Derefter følger en kommunalpolitisk debat med deltagere fra seks politiske partier:
+                    <ul>
+                        <li>Dorthe Jensen (Socialdemokratiet)</li>
+                        <li>Johan Brødsgaard (Radikale Venstre)</li>
+                        <li>Bente Refslund (SF)</li>
+                        <li>Morten Skydsgaard (Konservative)</li>
+                        <li>Peter Sig Kristensen (Enhedslisten)</li>
+                        <li>Charlotte Aaby (Dansk Folkeparti)</li>
+                    </ul>
+                </p>
+            </div>
+        </div>
+
         <h2 id="best">Bestyrelsen</h2>
 
         <div class="person">

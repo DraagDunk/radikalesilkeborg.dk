@@ -72,6 +72,10 @@ div.content {
     width: 100%;
     border-radius: 1rem;
     background-color: var(--color-content-bg);
+
+    p {
+        text-align: justify;
+    }
 }
 
 h1,
@@ -181,7 +185,7 @@ footer a {
     }
 
     .image-container img{
-        width: 350px;
+        width: 250px;
     }
 
 }
