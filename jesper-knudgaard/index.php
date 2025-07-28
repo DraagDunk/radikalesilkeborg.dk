@@ -19,7 +19,7 @@
             </div>
 
             <div class="info-box">
-            <p>Klima, miljø, social lighed og uddannelse er kerneemner i Radikales <a href="https://www.radikale.dk/aktuelt/nyhed/martin-lidegaard-vores-tid-kalder-pa-en-ny-kontrakt-mellem-generationerne/">generationskontrakt</a>. Vi skal sørge for, at de som kommer efter os har bedre forudsætninger for at leve et sundt og lykkeligt liv. <i>Alle</i> der kommer efter os. Vi skal have gang i de langsigtede løsninger, og være villige til at betale nu, så regningen ikke skubbes til de kommende generationer.</p>
+            <p>Klima, miljø, social lighed og uddannelse er kerneemner i Radikales <a href="https://www.radikale.dk/politik/vi-mener/udspil/oekonomi/2030-plan-vi-vil-lave-en-ny-generations-kontrakt/">generationskontrakt</a>. Vi skal sørge for, at de som kommer efter os har bedre forudsætninger for at leve et sundt og lykkeligt liv. <i>Alle</i> der kommer efter os. Vi skal have gang i de langsigtede løsninger, og være villige til at betale nu, så regningen ikke skubbes til de kommende generationer.</p>
 
             <p>Mit navn er Jesper. Jeg er uddannet astrofysiker fra Aarhus universitet, og arbejder til daglig som softwareudvikler hos Magenta i Aarhus. Her arbejder jeg med open source software. Jeg bor i Hvinningdal med min hustru Klara og vores kat Brunhilde.</p>
             
