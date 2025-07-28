@@ -18,7 +18,7 @@
 
         <div class="card-grid">
             <a class="card">
-                <img src="noone.png" alt="">
+                <img src="johan-broedsgaard/IMG_7521.jpeg" alt="">
                 <h4>Johan Brødsgaard</h4>
             </a>
 
