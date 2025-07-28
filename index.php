@@ -223,7 +223,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="noone.png" alt="">
+                <img src="johan-broedsgaard/IMG_7521.jpeg" alt="">
             </div>
             <div class="info">
                 <h3>Johan Brødsgaard</h3>
