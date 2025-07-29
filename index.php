@@ -23,7 +23,7 @@
             </a>
 
             <a class="card">
-                <img src="noone.png" alt="">
+                <img src="carsten-bjerre/Carsten Bjerre-portrait.jpg" alt="">
                 <h4>Carsten Bjerre</h4>
             </a>
 
@@ -153,7 +153,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="noone.png" alt="">
+                <img src="carsten-bjerre/Carsten Bjerre-portrait.jpg" alt="">
             </div>
             <div class="info">
                 <h3>Carsten Bjerre</h3>
