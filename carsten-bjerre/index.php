@@ -17,7 +17,7 @@
 
         <div class="about-section">
             <div class="image-container">
-                <img src="carsten-bjerre/Carsten Bjerre-portrait.jpg" alt="Billede af Carsten">
+                <img src="/carsten-bjerre/CarstenBjerre-portrait.jpg" alt="Billede af Carsten">
             </div>
 
             <div class="info-box">

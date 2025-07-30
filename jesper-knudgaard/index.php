@@ -15,7 +15,7 @@
 
         <div class="about-section">
             <div class="image-container">
-                <img src="Foto_JesperDamKnudgaard.jpg" alt="Billede af Jesper">
+                <img src="/jesper-knudgaard/Foto_JesperDamKnudgaard.jpg" alt="Billede af Jesper">
             </div>
 
             <div class="info-box">

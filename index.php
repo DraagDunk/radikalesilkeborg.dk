@@ -23,7 +23,7 @@
             </a>
 
             <a class="card" href="/carsten-bjerre">
-                <img src="carsten-bjerre/Carsten Bjerre-portrait.jpg" alt="">
+                <img src="carsten-bjerre/CarstenBjerre-portrait.jpg" alt="">
                 <h4>Carsten Bjerre</h4>
             </a>
 
