@@ -29,7 +29,7 @@
             </div>
         </div>
 
-        <h2>Politik</h2>
+        <h2>Mærkesager</h2>
 
         <div class="policy-grid">
             <div class="policy">

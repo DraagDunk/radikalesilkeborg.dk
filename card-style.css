@@ -48,5 +48,11 @@ div.policy-grid {
         &:nth-of-type(2n) {
             background-color: var(--color-magenta-transparent);
         }
+
+        @media (min-width: 800px) {
+            &.big {
+                grid-column: span 2;
+            }
+        }
     }
 }

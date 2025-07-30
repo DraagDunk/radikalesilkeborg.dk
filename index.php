@@ -22,7 +22,7 @@
                 <h4>Johan Brødsgaard</h4>
             </a>
 
-            <a class="card">
+            <a class="card" href="/carsten-bjerre">
                 <img src="carsten-bjerre/Carsten Bjerre-portrait.jpg" alt="">
                 <h4>Carsten Bjerre</h4>
             </a>
