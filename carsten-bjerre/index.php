@@ -84,12 +84,10 @@
 
         <div class="policy-grid">
 
-            <div class=" big policy">
-                <h3>En sikker cykelsti væk fra vejen mellem Sejs-Svejbæk og Silkeborg er en af kommunens vigtigste manglende forbindelser. Den skal realiseres både af hensyn til børns sikkerhed, daglig mobilitet og klimaet.</h3>
+            <div class="policy">
+                <h3>Ny cykelsti mellem Sejs og Silkeborg</h3>
 
-                <p>Vi skal samtidig sikre, at vores grønne ambitioner ikke ender i symbolpolitik. Det nytter ikke, at kommunens mange elbiler oplades med strøm fra kul og gas.</p>
-
-                <p>Derfor skal vi investere i lokale, vedvarende energianlæg (VE-anlæg), så grøn omstilling også betyder grøn energi. Her skal Silkeborg gå forrest.</p>
+                <p>En sikker cykelsti væk fra vejen mellem Sejs-Svejbæk og Silkeborg er en af kommunens vigtigste manglende forbindelser. Den skal realiseres både af hensyn til børns sikkerhed, daglig mobilitet og klimaet.</p>
             </div>
 
             <div class="policy">
@@ -116,12 +114,16 @@
 
             </div>
 
-            <div class="policy">
+            <div class=" big policy">
                 <h3 id="udvikling">Bæredygtig udvikling – grøn mobilitet og grøn energi</h3>
 
                 <p>Silkeborg skal udvikles med omtanke. Når vi bygger nyt, skal vi tænke natur, klima og fællesskab med fra starten både i bymidten og i lokalområderne.</p>
 
                 <p>Vi skal prioritere grøn mobilitet og gøre det lettere og mere sikkert at tage cyklen, toget eller bussen frem for bilen.</p>
+
+                <p>Vi skal samtidig sikre, at vores grønne ambitioner ikke ender i symbolpolitik. Det nytter ikke, at kommunens mange elbiler oplades med strøm fra kul og gas.</p>
+
+                <p>Derfor skal vi investere i lokale, vedvarende energianlæg (VE-anlæg), så grøn omstilling også betyder grøn energi. Her skal Silkeborg gå forrest.</p>
 
             </div>
 
