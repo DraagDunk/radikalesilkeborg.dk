@@ -13,7 +13,7 @@
 
         <h1 id="home">Carsten Bjerre</h1>
 
-        <h2>Kandidat til byrådsvalget 2025 for Radikale Venstre i Silkeborg Kommune</h2>
+        <h2>Radikale Venstres andenkandidat til byrådsvalget i Silkeborg Kommune 2025</h2>
 
         <div class="about-section">
             <div class="image-container">
@@ -31,37 +31,67 @@
             </div>
         </div>
 
-        <p>I 2024 kunne vi som institution i samarbejde med stærke frivillige kræfter, fonde og Skanderborg Kommune indvie en ny Multipark til 14 mio. kr., bla. med en 1.280 m² betonskatepark. Et projekt, hvor vi selv rejste over 10 mio. kr. i fondsmidler.</p>
+        <div class="about-section">
+            <div class="image-container">
+                <img src="/carsten-bjerre/cb_haandbold.jpg" alt="Billede af Carsten i håndboldtrøje med en håndbold i højre hånd.">
+            </div>
+            <div class="info-box">
 
-        <p>Det er et godt eksempel på, hvordan vi kan skabe stærke rammer for fællesskab og bevægelse, når vi arbejder sammen på tværs.</p>
+                <p>I 2024 kunne vi som institution i samarbejde med stærke frivillige kræfter, fonde og Skanderborg Kommune indvie en ny Multipark til 14 mio. kr., bla. med en 1.280 m² betonskatepark. Et projekt, hvor vi selv rejste over 10 mio. kr. i fondsmidler.</p>
 
-        <p>Jeg er dybt engageret i mit lokalområde. Jeg sidder i skolebestyrelsen på Sejs Skole, har været håndboldtræner i SSIF i syv sæsoner (og en enkelt som fodboldtræner), spillet med i borgerforeningens teaterstykke og er med i Hjerterumsgruppen, som arbejder med udearealerne omkring skolen, Multihuset og idrætshallerne.</p>
+                <p>Det er et godt eksempel på, hvordan vi kan skabe stærke rammer for fællesskab og bevægelse, når vi arbejder sammen på tværs.</p>
+
+                <p>Jeg er dybt engageret i mit lokalområde. Jeg sidder i skolebestyrelsen på Sejs Skole, har været håndboldtræner i SSIF i syv sæsoner (og en enkelt som fodboldtræner), spillet med i borgerforeningens teaterstykke og er med i Hjerterumsgruppen, som arbejder med udearealerne omkring skolen, Multihuset og idrætshallerne.</p>
+
+                <p>Mit kandidatur til byrådsvalget bygger på ønsket om en kommune, hvor børn og unge trives, hvor fællesskaber styrkes, og hvor grøn omstilling og friluftsliv prioriteres – ikke kun for turister, men også for os, der bor her.</p>
+
+            </div>
+        </div>
 
         <p>Mit kandidatur til byrådsvalget bygger på ønsket om en kommune, hvor børn og unge trives, hvor fællesskaber styrkes, og hvor grøn omstilling og friluftsliv prioriteres – ikke kun for turister, men også for os, der bor her.</p>
 
-        <p>Mit kandidatur til byrådsvalget bygger på ønsket om en kommune, hvor børn og unge trives, hvor fællesskaber styrkes, og hvor grøn omstilling og friluftsliv prioriteres – ikke kun for turister, men også for os, der bor her.</p>
-
-        <p>Jeg er selv en flittig bruger af vores outdoor-hovedstad med mange kilometer i benene: på mountainbike på sporene i Nordskoven og Vesterskoven, rundt om Julsø i skoven på min gravelbike, og på de mange små, fantastiske asfaltveje i Silkeborgsopland med naturoplevelser på min racercykel.</p>
+        <p>Jeg er selv en flittig bruger af vores outdoor-hovedstad med mange kilometer i benene: på mountainbike på sporene i Nordskoven og Vesterskoven, rundt om Julsø i skoven på min gravelbike, og på de mange små, fantastiske asfaltveje i Silkeborgs opland med naturoplevelser på min racercykel.</p>
 
         <p>Outdoor-liv er ikke bare noget, vi skal tilbyde andre det skal også være en integreret del af vores hverdag og identitet som Silkeborgensere.</p>
 
-        <h2>Hvorfor Radikale Venstre?</h2>
 
-        <p>Fordi frihed, fællesskab og fremsyn er nøgleord i det samfund, jeg gerne vil være med til at forme. Jeg tror på dialog frem for ideologi, på langsigtede løsninger frem for symbolpolitik, og på investeringer i mennesker frem for kortsigtede besparelser.</p>
+        <div class="about-section">
+            <div class="image-container">
+                <img src="/carsten-bjerre/cb_radikale.jpg" alt="Billede af Carsten foran en roll-up med teksten 'Radikale' efterfulgt af 'Der er brug for en plan B'. Carsten peger med åben hånd mod B'et.">
+            </div>
+            <div class="info-box">
 
-        <p>Silkeborg skal være en kommune, hvor alle trives, hvor naturen beskyttes, og hvor fællesskaberne styrkes.</p>
+                <h2>Hvorfor Radikale Venstre?</h2>
 
-        <p><b>Jeg stiller op, fordi jeg tror på, at vi sammen kan skabe netop det.</b></p>
+                <p>Fordi frihed, fællesskab og fremsyn er nøgleord i det samfund, jeg gerne vil være med til at forme. Jeg tror på dialog frem for ideologi, på langsigtede løsninger frem for symbolpolitik, og på investeringer i mennesker frem for kortsigtede besparelser.</p>
 
+                <p>Silkeborg skal være en kommune, hvor alle trives, hvor naturen beskyttes, og hvor fællesskaberne styrkes.</p>
+
+                <p><b>Jeg stiller op, fordi jeg tror på, at vi sammen kan skabe netop det.</b></p>
+
+            </div>
+        </div>
+
+        
         <p><b>Carsten Bjerre</b></p>
 
         <p><b>Kandidat til byrådsvalget 2025 for Radikale Venstre</b></p>
 
         <p><b>Borger i Sejs-Svejbæk, pædagog, institutionsleder og frivillig i lokalsamfundet</b></p>
 
+
         <h2>Mærkesager</h2>
 
         <div class="policy-grid">
+
+            <div class=" big policy">
+                <h3>En sikker cykelsti væk fra vejen mellem Sejs-Svejbæk og Silkeborg er en af kommunens vigtigste manglende forbindelser. Den skal realiseres både af hensyn til børns sikkerhed, daglig mobilitet og klimaet.</h3>
+
+                <p>Vi skal samtidig sikre, at vores grønne ambitioner ikke ender i symbolpolitik. Det nytter ikke, at kommunens mange elbiler oplades med strøm fra kul og gas.</p>
+
+                <p>Derfor skal vi investere i lokale, vedvarende energianlæg (VE-anlæg), så grøn omstilling også betyder grøn energi. Her skal Silkeborg gå forrest.</p>
+            </div>
+
             <div class="policy">
 
                 <h3 id="boern_og_unge">Børn og unges trivsel</h3>
@@ -70,6 +100,10 @@
 
                 <p>Fritids- og ungdomsklubberne spiller en nøglerolle – her er der ingen ventelister og ingen krav om at præstere. Det er her, mange unge oplever tryghed, fællesskab og anerkendelse.</p>
 
+            </div>
+
+            <div class="extra policy image">
+                <img src="/carsten-bjerre/cykelsti.jpg" alt="Et billede af en tosporet cykelsti.">
             </div>
 
             <div class="policy">
@@ -82,18 +116,13 @@
 
             </div>
 
-            <div class="big policy">
+            <div class="policy">
                 <h3 id="udvikling">Bæredygtig udvikling – grøn mobilitet og grøn energi</h3>
 
                 <p>Silkeborg skal udvikles med omtanke. Når vi bygger nyt, skal vi tænke natur, klima og fællesskab med fra starten både i bymidten og i lokalområderne.</p>
 
                 <p>Vi skal prioritere grøn mobilitet og gøre det lettere og mere sikkert at tage cyklen, toget eller bussen frem for bilen.</p>
 
-                <p><b>En sikker cykelsti væk fra vejen mellem Sejs-Svejbæk og Silkeborg er en af kommunens vigtigste manglende forbindelser. Den skal realiseres både af hensyn til børns sikkerhed, daglig mobilitet og klimaet.</b></p>
-
-                <p>Vi skal samtidig sikre, at vores grønne ambitioner ikke ender i symbolpolitik. Det nytter ikke, at kommunens mange elbiler oplades med strøm fra kul og gas.</p>
-
-                <p>Derfor skal vi investere i lokale, vedvarende energianlæg (VE-anlæg), så grøn omstilling også betyder grøn energi. Her skal Silkeborg gå forrest.</p>
             </div>
 
             <div class="policy">

@@ -109,6 +109,10 @@ footer a {
 .about-section {
     display: flex;
     flex-direction: column;
+
+    &:not(:first-of-type) {
+        margin-top: 1rem;
+    }
 }
 
 .image-container {

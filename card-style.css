@@ -49,9 +49,28 @@ div.policy-grid {
             background-color: var(--color-magenta-transparent);
         }
 
+        &.image {
+
+            padding: 0;
+
+            img {
+                display: block;
+                max-width: 100%;
+                border-radius: 1rem;
+        }
+        }
+
+        &.extra {
+            display: none;
+        }
+
         @media (min-width: 800px) {
             &.big {
                 grid-column: span 2;
+            }
+
+            &.extra {
+                display: block;
             }
         }
     }
