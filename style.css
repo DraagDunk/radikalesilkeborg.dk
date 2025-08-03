@@ -75,6 +75,8 @@ div.content {
 
     p {
         text-align: justify;
+        overflow-wrap: break-word;
+        hyphens: auto;
     }
 }
 

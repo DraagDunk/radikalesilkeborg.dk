@@ -99,7 +99,7 @@
             <div class="policy">
                 <h3 id="outdoor">Outdoor-muligheder – også for os, der bor her</h3>
 
-                <p>Silkeborg skal ikke kun være Danmarks outdoor-hovedstad for turister men også for os, der bor her.</p>
+                <p>Silkeborg skal ikke kun være Danmarks out&shy;door-hovedstad for turister men også for os, der bor her.</p>
 
                 <p>Vi skal skabe flere gratis og let tilgængelige friluftstilbud, flere cykel- og vandrestier, og en klar outdoor-strategi, der styrker både fællesskab og sundhed.</p>
             </div>
