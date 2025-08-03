@@ -153,7 +153,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="carsten-bjerre/Carsten Bjerre-portrait.jpg" alt="">
+                <img src="carsten-bjerre/CarstenBjerre-portrait.jpg" alt="">
             </div>
             <div class="info">
                 <h3>Carsten Bjerre</h3>
