@@ -116,8 +116,22 @@ footer a {
 }
 
 .image-container {
+    position: relative;
     display: flex;
     justify-content: center;
+
+    .img-credit {
+        font-size: small;
+        font-style: italic;
+        position: absolute;
+        bottom: -1.2rem;
+        left: 0px;
+
+        &::before {
+            content: "© "
+        }
+
+    }
 }
 
 .image-container img {

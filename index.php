@@ -63,7 +63,45 @@
             </a>
         </div>
 
-        <!-- <h2 id="arrangementer">Arrangementer</h2> -->
+        <h2 id="arrangementer">Arrangementer</h2>
+
+        <div class="about-section">
+            <div class="image-container">
+                <img src="308619_Silkeborg-raadhus.jpg" alt="">
+                <div class="img-credit">Silkeborg Kommune</div>
+            </div>            
+            <div class="info-box">
+                <h3>Politiske arrangementer op til kommunalvalget</h3>
+                <p>Radikale Venstre i Silkeborg inviterer til en række arrangementer op til kommunalvalget i November.</p>
+                <p>Det foregår foran rådhuset i Silkeborg om tirsdagen klokken 18:30.</p>
+                <p>Tema og dato for alle arrangementerne er:</p>
+                <ul>
+                    <li>
+                        12. august: <b>Hvordan skaber vi en ordentlig folkeskole for alle elever i Silkeborg?</b><br>
+                        Hovedtaler: Trine Falck Steen, formand for Silkeborg Lærerforening<br>
+                        Deltagende lokale partier: Socialdemokratiet, SF, Enhedslisten, Konservative og Danmarksdemokraterne
+                    </li>
+                    <li>
+                        9. september: <b>Sundhedsområdet</b>
+                    </li>
+                    <li>
+                        30. september: <b>Offentlige ansattes arbejdsvilkår</b>
+                    </li>
+                    <li>
+                        7. oktober: <b>Ældre-omsorg</b>
+                    </li>
+                    <li>
+                        21. oktober: <b>Outdoor-Silkeborg</b>
+                    </li>
+                    <li>
+                        4. november: <b>Byudvikling - Søfronten</b>
+                    </li>
+                    <li>
+                        11. november: <b>Kulturens vilkår i Silkeborg</b>
+                    </li>
+                </ul>
+            </div>
+        </div>
 
         <h2 id="politik">Politisk program</h2>
 
