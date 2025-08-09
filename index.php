@@ -37,7 +37,7 @@
                 <h4>Kim Egeskov</h4>
             </a>
 
-            <a class="card">
+            <a class="card" href="https://stemwenzel.dk">
                 <img src="noone.png" alt="">
                 <h4>Søren Kristian Wenzel Nielsen</h4>
             </a>
