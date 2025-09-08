@@ -17,7 +17,7 @@
       flex-direction: column;
       position: fixed;
       bottom: 3rem;
-      right: 0;
+      left: calc(50vw + 400px + 2rem);
     }
   
     .social-media-buttons .sm-icon {

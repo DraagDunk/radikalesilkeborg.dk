@@ -145,9 +145,10 @@
 
         </div>
 
-        <!-- <div class="social-media-buttons">
-            <a href="mailto:jesper@radikalesilkeborg.dk" class="sm-icon fa fa-envelope"></a>
-        </div> -->
+        <div class="social-media-buttons">
+            <a href="https://www.facebook.com/profile.php?id=61577975349512" class="sm-icon fa-brands fa-facebook"></a>
+            <a href="mailto:Carsten.Bjerre@skanderborg.dk" class="sm-icon fa fa-envelope"></a>
+        </div>
     </div>
 </div>
 
