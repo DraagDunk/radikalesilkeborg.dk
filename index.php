@@ -77,12 +77,12 @@
                 <p>Tema og dato for alle arrangementerne er:</p>
                 <ul>
                     <li>
-                        12. august: <b>Hvordan skaber vi en ordentlig folkeskole for alle elever i Silkeborg?</b><br>
-                        Hovedtaler: Trine Falck Steen, formand for Silkeborg Lærerforening<br>
-                        Deltagende lokale partier: Socialdemokratiet, SF, Enhedslisten, Konservative og Danmarksdemokraterne
+                        12. august: <b>Hvordan skaber vi en ordentlig folkeskole for alle elever i Silkeborg?</b>
                     </li>
                     <li>
-                        9. september: <b>Sundhedsområdet</b>
+                        9. september: <b>Bliver sundhedsreformen et farvel til min læge?</b><br>
+                        Talere: Hanne Roed (RV), Jane Gregernen (PLO), Naja Kallesøe (SF), Henrik Steffens (RV)<br>
+                        Deltagende lokale partier: Socialdemokratiet, SF, Enhedslisten, Konservative og Danmarksdemokraterne
                     </li>
                     <li>
                         30. september: <b>Offentlige ansattes arbejdsvilkår</b>
