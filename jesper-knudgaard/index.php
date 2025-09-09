@@ -63,6 +63,7 @@
         </div>
 
         <div class="social-media-buttons">
+            <a href="https://mastodon.social/@JesperDam" rel="me" class="sm-icon fa-brands fa-mastodon"></a>
             <a href="mailto:jesper@radikalesilkeborg.dk" class="sm-icon fa fa-envelope"></a>
         </div>
     </div>
