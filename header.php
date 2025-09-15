@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/nav-style.css">
     <link rel="stylesheet" href="/card-style.css">
     <link rel="stylesheet" href="/social-media-icon-style.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <script src="/navbar.js"></script>
     <title><?php echo $title ?> | Radikale Silkeborg</title>
 </head>
