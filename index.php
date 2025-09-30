@@ -80,15 +80,13 @@
                         12. august: <b>Hvordan skaber vi en ordentlig folkeskole for alle elever i Silkeborg?</b>
                     </li>
                     <li>
-                        9. september: <b>Bliver sundhedsreformen et farvel til min læge?</b><br>
-                        Talere: Hanne Roed (RV), Jane Gregernen (PLO), Naja Kallesøe (SF), Henrik Steffens (RV)<br>
-                        Deltagende lokale partier: Socialdemokratiet, SF, Enhedslisten, Konservative og Danmarksdemokraterne
+                        9. september: <b>Bliver sundhedsreformen et farvel til min læge?</b>
                     </li>
                     <li>
-                        30. september: <b>Offentlige ansattes arbejdsvilkår</b>
+                        30. september: <b>Offentlige ansattes arbejdsvilkår</b> (Aflyst)
                     </li>
                     <li>
-                        7. oktober: <b>Ældre-omsorg</b>
+                        7. oktober: <b>Ældre-omsorg</b> (Aflyst)
                     </li>
                     <li>
                         21. oktober: <b>Outdoor-Silkeborg</b>
