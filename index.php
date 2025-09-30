@@ -17,7 +17,7 @@
         <h2 id="kv25">Kandidater til kommunalvalg 2025</h2>
 
         <div class="card-grid">
-            <a class="card">
+            <a class="card" href="/johan-broedsgaard">
                 <img src="johan-broedsgaard/IMG_7521.jpeg" alt="">
                 <h4>Johan Brødsgaard</h4>
             </a>
