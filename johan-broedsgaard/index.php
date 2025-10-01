@@ -66,6 +66,8 @@
         <p>Kontaktinfo: <a href="mailto:johan.brodsgaard@silkeborg.dk">johan.brodsgaard@silkeborg.dk</a> // <a href="tel:+4550166762">50166762</a></p>
 
         <div class="social-media-buttons">
+            <a href="https://www.instagram.com/stemjohan/" class="sm-icon fa-brands fa-instagram"></a>
+            <a href="https://www.linkedin.com/in/stemjohan/" class="sm-icon fa-brands fa-linkedin"></a>
             <a href="mailto:johan.brodsgaard@silkeborg.dk" class="sm-icon fa fa-envelope"></a>
             <a href="tel:+4550166762" class="sm-icon fa fa-phone"></a>
         </div>
