@@ -28,17 +28,17 @@
             </a>
 
             <a class="card">
-                <img src="noone.png" alt="">
+                <img src="/morten-junget/foto.jpeg" alt="">
                 <h4>Morten Junget</h4>
             </a>
 
             <a class="card">
-                <img src="noone.png" alt="">
+                <img src="/kim-egeskov/foto.jpeg" alt="">
                 <h4>Kim Egeskov</h4>
             </a>
 
             <a class="card" href="https://stemwenzel.dk">
-                <img src="noone.png" alt="">
+                <img src="/søren-wenzel/foto.jpeg" alt="">
                 <h4>Søren Kristian Wenzel Nielsen</h4>
             </a>
 
@@ -48,7 +48,7 @@
             </a>
 
             <a class="card" href="https://cskytt.dk/">
-                <img src="noone.png" alt="">
+                <img src="/carsten-skytt/foto.jpeg" alt="">
                 <h4>Carsten Ørum Skytt</h4>
             </a>
 
@@ -89,7 +89,7 @@
                         7. oktober: <b>Ældre-omsorg</b> (Aflyst)
                     </li>
                     <li>
-                        21. oktober: <b>Outdoor-Silkeborg</b>
+                        21. oktober: <b>Outdoor-Silkeborg</b> (Aflyst)
                     </li>
                     <li>
                         4. november: <b>Byudvikling - Søfronten</b>
@@ -219,7 +219,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="noone.png" alt="">
+                <img src="/morten-junget/foto.jpeg" alt="">
             </div>
             <div class="info">
                 <h3>Morten Junget</h3>
@@ -239,7 +239,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="noone.png" alt="">
+                <img src="/kim-egeskov/foto.jpeg" alt="">
             </div>
             <div class="info">
                 <h3>Kim Egeskov</h3>
@@ -249,7 +249,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="noone.png" alt="">
+                <img src="/carsten-skytt/foto.jpeg" alt="">
             </div>
             <div class="info">
                 <h3>Carsten Ørum Skytt</h3>
@@ -269,7 +269,7 @@
 
         <div class="person">
             <div class="image">
-                <img src="noone.png" alt="">
+                <img src="/søren-wenzel/foto.jpeg" alt="">
             </div>
             <div class="info">
                 <h3>Søren Kristian Wenzel Nielsen</h3>
