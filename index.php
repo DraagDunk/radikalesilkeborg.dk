@@ -16,7 +16,7 @@
         $arr = json_decode($json, true);
 
         if ($arr)
-            include("events.php");
+            include("events/index.php");
     ?>
 
 
