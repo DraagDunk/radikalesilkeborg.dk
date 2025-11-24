@@ -11,95 +11,14 @@
 <div class="page">
     <div class="content">
 
-        <h1 id="home"><span class="R-logo">Radikale</span> Silke<span class="B-logo">B</span>org</h1>
+    <?php
+        $json = file_get_contents("./events.json");
+        $arr = json_decode($json, true);
 
+        if ($arr)
+            include("events.php");
+    ?>
 
-        <h2 id="kv25">Kandidater til kommunalvalg 2025</h2>
-
-        <div class="card-grid">
-            <a class="card" href="/johan-broedsgaard">
-                <img src="johan-broedsgaard/IMG_7521.jpeg" alt="">
-                <h4>Johan Brødsgaard</h4>
-            </a>
-
-            <a class="card" href="/carsten-bjerre">
-                <img src="carsten-bjerre/CarstenBjerre-portrait.jpg" alt="">
-                <h4>Carsten Bjerre</h4>
-            </a>
-
-            <a class="card">
-                <img src="/morten-junget/foto.jpeg" alt="">
-                <h4>Morten Junget</h4>
-            </a>
-
-            <a class="card">
-                <img src="/kim-egeskov/foto.jpeg" alt="">
-                <h4>Kim Egeskov</h4>
-            </a>
-
-            <a class="card" href="https://stemwenzel.dk">
-                <img src="/søren-wenzel/foto.jpeg" alt="">
-                <h4>Søren Kristian Wenzel Nielsen</h4>
-            </a>
-
-            <a class="card">
-                <img src="noone.png" alt="">
-                <h4>Sophie Mørkholt Rasmussen</h4>
-            </a>
-
-            <a class="card" href="https://cskytt.dk/">
-                <img src="/carsten-skytt/foto.jpeg" alt="">
-                <h4>Carsten Ørum Skytt</h4>
-            </a>
-
-            <a class="card" href="/jesper-knudgaard">
-                <img src="jesper-knudgaard/Foto_JesperDamKnudgaard.jpg" alt="">
-                <h4>Jesper Dam Gynther Knudgaard</h4>
-            </a>
-
-            <a class="card">
-                <img src="noone.png" alt="">
-                <h4>Henrik Steffens</h4>
-            </a>
-        </div>
-
-        <h2 id="arrangementer">Arrangementer</h2>
-
-        <div class="about-section">
-            <div class="image-container">
-                <img src="308619_Silkeborg-raadhus.jpg" alt="">
-                <div class="img-credit">Silkeborg Kommune</div>
-            </div>            
-            <div class="info-box">
-                <h3>Politiske arrangementer op til kommunalvalget</h3>
-                <p>Radikale Venstre i Silkeborg inviterer til en række arrangementer op til kommunalvalget i November.</p>
-                <p>Det foregår foran rådhuset i Silkeborg om tirsdagen klokken 18:30.</p>
-                <p>Tema og dato for alle arrangementerne er:</p>
-                <ul>
-                    <li>
-                        12. august: <b>Hvordan skaber vi en ordentlig folkeskole for alle elever i Silkeborg?</b>
-                    </li>
-                    <li>
-                        9. september: <b>Bliver sundhedsreformen et farvel til min læge?</b>
-                    </li>
-                    <li>
-                        30. september: <b>Offentlige ansattes arbejdsvilkår</b> (Aflyst)
-                    </li>
-                    <li>
-                        7. oktober: <b>Ældre-omsorg</b> (Aflyst)
-                    </li>
-                    <li>
-                        21. oktober: <b>Outdoor-Silkeborg</b> (Aflyst)
-                    </li>
-                    <li>
-                        4. november: <b>Byudvikling - Søfronten</b>
-                    </li>
-                    <li>
-                        11. november: <b>Kulturens vilkår i Silkeborg</b>
-                    </li>
-                </ul>
-            </div>
-        </div>
 
         <h2 id="politik">Politisk program</h2>
 

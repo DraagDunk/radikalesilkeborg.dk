@@ -6,26 +6,60 @@ div.card-grid {
         padding: 0.5rem;
         margin: 0.5rem;
 
-        transition: transform 0.2s ease-in-out;
+        &.link {
+            transition: transform 0.2s ease-in-out;
 
-        h4 {
+            h4 {
             text-align: center;
             margin: 0;
+            }
+
+            &:hover {
+                transform: scale(1.1);
+                cursor: pointer;
+            }
+
+            img {
+                max-width: 100%;
+            }
         }
 
-        &:hover {
-            transform: scale(1.1);
-            cursor: pointer;
+        &.event {
+            border-radius: 1rem;
+            padding: 0.5rem 1.5rem;
+
+            h3 {
+                text-align: left;
+            }
+
+            .date {
+                font-style: italic;
+            }
+
+            &:nth-of-type(2n - 1) {
+            background-color: var(--color-green-transparent);
+            }
+
+            &:nth-of-type(2n) {
+                background-color: var(--color-magenta-transparent);
+            }
         }
 
-        img {
-            max-width: 100%;
+    }
+
+    &.events {
+        grid-template-columns: 1fr;
+    }
+
+    &.links {
+        grid-template-columns: 1fr 1fr;
+
+        @media (min-width: 800px) {
+            grid-template-columns: 1fr 1fr 1fr;
         }
     }
 
-    @media (min-width: 800px) {
-        grid-template-columns: 1fr 1fr 1fr;
-    }
+    
 }
 
 div.policy-grid {
