@@ -1,7 +1,9 @@
 <header>
     <div class="topnav" id="topnav">
-        <a id="home-link" class="narrow" href="/"><span class="R-logo">Radikale</span> Silke<span class="B-logo">B</span>org</a>
+        <a id="home-link" class="narrow" href="/"><span class="R-logo">Radikale</span> Silke<span
+                class="B-logo">B</span>org</a>
         <nav id="navigation">
+            <a href="/#folketingsvalg">Folketingsvalg 2026</a>
             <a href="/#arrangementer">Arrangementer</a>
             <a href="/#politik">Politisk program</a>
             <a href="/#best">Bestyrelsen</a>

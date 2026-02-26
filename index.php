@@ -12,6 +12,36 @@ include("header.php");
     <div class="page">
         <div class="content">
 
+
+            <h2 id="folketingsvalg">Folketingsvalg 2026</h2>
+
+            <div class="about-section">
+                <div class="image-container">
+                    <img src="/johan-broedsgaard/IMG_7521.jpeg" alt="Billede af Johan">
+                </div>
+
+                <div class="info-box">
+
+                    <p>
+                        Den 24. marts er der folketingsvalg, og her støtter Radikale Venstre i Silkeborg <a
+                            href="/johan-broedsgaard">Johan Brødsgaard</a> som Vestjyllands storkreds'
+                        folketingskandidat.
+                    </p>
+
+                    <p>
+                        Johan går til valg på god, radikal politik, som tager udgangspunkt i Radikale Venstres <a
+                            href="https://www.radikale.dk/politik/vi-mener/udspil/oekonomi/2030-plan-vi-vil-lave-en-ny-generations-kontrakt/">generationskontrakt</a>.
+                    </p>
+
+                    <p>
+                        Johan er bosiddende i Silkeborg, hvor han sidder i byrådet i sin fjerde periode. Johan
+                        fortsætter ikke i byrådet, hvis han vælges til folketinget. Her overtager i stedet suppleanten
+                        <a href="/carsten-bjerre">Carsten Bjerre</a>.
+                    </p>
+
+                </div>
+            </div>
+
             <?php
             $json = file_get_contents("./events.json");
             $arr = json_decode($json, true);
@@ -19,7 +49,6 @@ include("header.php");
             if ($arr)
                 include("events/index.php");
             ?>
-
 
             <h2 id="politik">Politisk program</h2>
 
@@ -185,21 +214,11 @@ include("header.php");
 
             <div class="person">
                 <div class="image">
-                    <img src="/kim-egeskov/foto.jpeg" alt="">
-                </div>
-                <div class="info">
-                    <h3>Kim Egeskov</h3>
-                    <div class="post">Bestyrelsesmedlem</div>
-                </div>
-            </div>
-
-            <div class="person">
-                <div class="image">
                     <img src="johan-broedsgaard/IMG_7521.jpeg" alt="">
                 </div>
                 <div class="info">
                     <h3>Johan Brødsgaard</h3>
-                    <div class="post">Suppleant</div>
+                    <div class="post">Bestyrelsesmedlem</div>
                 </div>
             </div>
 
