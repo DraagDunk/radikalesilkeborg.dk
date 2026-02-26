@@ -46,8 +46,9 @@ include("../header.php");
                     <h3>Hvor finder jeg kandidattest/valgtest til folketingsvalget 2026?</h3>
 
                     <p>
-                        Der er endnu ingen tilgængelige valgtest til folketingsvalget 2026. Når valgtest fra f. eks. DR
-                        og Altinget bliver tilgængelige, kan man læse om politiske holdninger fra alle opstillede
+                        Du kan tage valgtest hos <a href="https://nyheder.tv2.dk/kandidattest">TV2</a> og/eller <a
+                            href="https://www.altinget.dk/kandidattest">Altinget</a>. Her kan man læse om politiske
+                        holdninger fra alle opstillede
                         kandidater, blandt andre dem, der er opstillede for Radikale Venstre.
                     </p>
                 </div>
