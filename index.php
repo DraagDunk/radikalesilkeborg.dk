@@ -149,6 +149,7 @@ include("header.php");
                         <a href="mailto:jesper@radikalesilkeborg.dk" class="sm-icon fa fa-envelope"><span
                                 class="icon-text">jesper@radikalesilkeborg.dk</span></a>
                     </div>
+                    <div class="period">2027</div>
                 </div>
             </div>
 
@@ -159,6 +160,7 @@ include("header.php");
                 <div class="info">
                     <h3>Per Simon Knudsen</h3>
                     <div class="post">Kasserer</div>
+                    <div class="period">2027</div>
                 </div>
             </div>
 
@@ -169,6 +171,7 @@ include("header.php");
                 <div class="info">
                     <h3>Carsten Ørum Skytt</h3>
                     <div class="post">Sekretær</div>
+                    <div class="period">2028</div>
                 </div>
             </div>
 
@@ -179,6 +182,7 @@ include("header.php");
                 <div class="info">
                     <h3>Klara Gynther Knudgaard</h3>
                     <div class="post">Næstforperson</div>
+                    <div class="period">2027</div>
                 </div>
             </div>
 
@@ -189,6 +193,7 @@ include("header.php");
                 <div class="info">
                     <h3>Carsten Bjerre</h3>
                     <div class="post">Bestyrelsesmedlem</div>
+                    <div class="period">2027</div>
                 </div>
             </div>
 
@@ -199,6 +204,7 @@ include("header.php");
                 <div class="info">
                     <h3>Morten Junget</h3>
                     <div class="post">Bestyrelsesmedlem</div>
+                    <div class="period">2028</div>
                 </div>
             </div>
 
@@ -209,6 +215,18 @@ include("header.php");
                 <div class="info">
                     <h3>Poul Elmegaard</h3>
                     <div class="post">Bestyrelsesmedlem</div>
+                    <div class="period">2028</div>
+                </div>
+            </div>
+
+            <div class="person">
+                <div class="image">
+                    <img src="noone.png" alt="">
+                </div>
+                <div class="info">
+                    <h3>Claus Poulsen</h3>
+                    <div class="post">Bestyrelsesmedlem</div>
+                    <div class="period">2028</div>
                 </div>
             </div>
 
@@ -218,7 +236,19 @@ include("header.php");
                 </div>
                 <div class="info">
                     <h3>Johan Brødsgaard</h3>
-                    <div class="post">Bestyrelsesmedlem</div>
+                    <div class="post">Suppleant</div>
+                    <div class="period">2027</div>
+                </div>
+            </div>
+
+            <div class="person">
+                <div class="image">
+                    <img src="noone.png" alt="">
+                </div>
+                <div class="info">
+                    <h3>Sophie Rasmussen</h3>
+                    <div class="post">Suppleant</div>
+                    <div class="period">2027</div>
                 </div>
             </div>
 

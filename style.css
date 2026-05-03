@@ -162,6 +162,16 @@ footer a {
         .post {
             font-style: italic;
         }
+
+        .period {
+            &::before {
+                content: "Valgt indtil ";
+            }
+
+            font-style: italic;
+            font-size: small;
+            margin-top: 1rem;
+        }
     }
 
     @media (min-width: 800px) {
@@ -174,14 +184,14 @@ footer a {
 
         .info {
             width: 80%;
-    
+
             text-align: left;
 
             h3 {
                 text-align: left;
             }
         }
-        
+
     }
 
 }
@@ -209,7 +219,7 @@ textarea {
         margin-inline-start: 2rem;
     }
 
-    .image-container img{
+    .image-container img {
         width: 250px;
     }
 
