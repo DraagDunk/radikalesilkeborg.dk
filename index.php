@@ -224,13 +224,17 @@ include("header.php");
 
 
 
-            <!-- <div class="social-media-buttons">
-                    <a href="https://www.instagram.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-instagram"></a>
-                    <a href="https://www.x.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-x-twitter"></a>
-                    <a href="https://www.facebook.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-facebook"></a>
-                    <a href="https://www.tiktok.com/person_personsen_not_a_real_person" class="sm-icon fa-brands fa-tiktok"></a>
-                    <a href="mailto:dennemailfindesheltsikkert@ikke.com" class="sm-icon fa fa-envelope"></a>
-                </div> -->
+            <div class="social-media-buttons">
+                <!-- <a href="https://www.instagram.com/person_personsen_not_a_real_person"
+                    class="sm-icon fa-brands fa-instagram"></a>
+                <a href="https://www.x.com/person_personsen_not_a_real_person"
+                    class="sm-icon fa-brands fa-x-twitter"></a> -->
+                <a href="https://www.facebook.com/profile.php?id=61552808955030"
+                    class="sm-icon fa-brands fa-facebook"></a>
+                <!-- <a href="https://www.tiktok.com/person_personsen_not_a_real_person"
+                    class="sm-icon fa-brands fa-tiktok"></a> -->
+                <a href="mailto:forperson@radikalesilkeborg.dk" class="sm-icon fa fa-envelope"></a>
+            </div>
         </div>
     </div>
 
